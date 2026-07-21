@@ -6,6 +6,7 @@ class Program
     static void Main()
     {
         Menu();
+        Game();
     }
 
     static void Menu()
@@ -15,8 +16,7 @@ class Program
         Console.WriteLine("2 - Créditos");
         Console.WriteLine("3 - Sair");
         Console.Readline();
-
-        
     }
-
-}
+        case(switch)
+        case 1:
+        
