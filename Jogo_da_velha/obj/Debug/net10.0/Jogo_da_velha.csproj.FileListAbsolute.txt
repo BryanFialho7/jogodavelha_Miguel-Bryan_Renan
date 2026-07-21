@@ -1,0 +1,5 @@
+C:\Users\j02\Desktop\JogodaVelha-Bryan-Miguel-Renan\Jogo_da_velha\obj\Debug\net10.0\Jogo_da_velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Desktop\JogodaVelha-Bryan-Miguel-Renan\Jogo_da_velha\obj\Debug\net10.0\Jogo_da_velha.AssemblyInfoInputs.cache
+C:\Users\j02\Desktop\JogodaVelha-Bryan-Miguel-Renan\Jogo_da_velha\obj\Debug\net10.0\Jogo_da_velha.AssemblyInfo.cs
+C:\Users\j02\Desktop\JogodaVelha-Bryan-Miguel-Renan\Jogo_da_velha\obj\Debug\net10.0\Jogo_da_velha.csproj.CoreCompileInputs.cache
+C:\Users\j02\Desktop\JogodaVelha-Bryan-Miguel-Renan\Jogo_da_velha\obj\Debug\net10.0\Jogo_da_velha.sourcelink.json
